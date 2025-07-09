@@ -35,7 +35,6 @@ SmartSphere AI is a prototype agentic assistant that unifies your Google digital
 - **Memory/State Layer**: Tracks context across multiple steps and sessions.
 - **Safety Layer**: Confirmation logic for risky/irreversible operations.
 
-![SmartSphere Architecture Diagram](./assets/architecture.png) <!-- Optional: add a diagram if you want visual impact -->
 
 ## Setup & Installation
 
